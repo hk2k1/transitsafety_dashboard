@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+
+# Distributions / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Logs and local database files
+*.log
+*.sqlite3
+
+# # Data files
+# data/*.csv
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Cache files
+*.cache
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Node modules (if using for frontend)
+node_modules/
+
+# MacOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
