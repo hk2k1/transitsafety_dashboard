@@ -3,3 +3,4 @@ pandas
 gunicorn
 waitress
 dotenv
+python-dotenv
