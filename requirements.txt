@@ -1,6 +1,6 @@
 dash
 pandas
+plotly
 gunicorn
 waitress
-dotenv
 python-dotenv
